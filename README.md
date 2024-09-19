@@ -47,7 +47,7 @@ The technologies used for this bot were:
 
 * Python lastest version
 * Interactions.py
-* third party APIS
+* Third-party APIs
 
 
 
