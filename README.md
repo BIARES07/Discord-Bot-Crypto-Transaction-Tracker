@@ -41,6 +41,13 @@ We can go back to our bot and verify that it has also marked as confirmed
 Additionally, we can check and see that the transaction has been made effective in the atomic wallet.
 
 
+## Final Notes
+
+The technologies used for this bot were:
+
+* Python lastest version
+* Interactions.py
+* third party APIS
 
 
 
